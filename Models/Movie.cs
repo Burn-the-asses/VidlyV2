@@ -10,6 +10,8 @@ namespace VidlyV2.Models
         //Plain Old ClR Objects Or Poco
         public int Id { get; set; }
         public string Name { get; set; }
-       
-    }
+        
+
+
+}
 }
